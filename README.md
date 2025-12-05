@@ -16,6 +16,6 @@
      git clone <url>
   ```
   ``` jzvascript
-     console.log ("hello")
+     console.log (" hello ")
   ```
   
