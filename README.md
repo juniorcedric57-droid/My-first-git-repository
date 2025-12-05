@@ -8,5 +8,5 @@
 >>**my book**  
 >>>***my ball***
    
--school
-  -class  
+- school
+  - class  
