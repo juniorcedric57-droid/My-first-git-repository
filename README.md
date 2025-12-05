@@ -4,6 +4,6 @@
 #### my first git repository
 ##### my first git repository
 ###### my first git repository
-*my school*
-**my book**
+*my school*  
+**my book**  
 ***my ball***  
