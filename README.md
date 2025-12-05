@@ -7,3 +7,5 @@
 >*my school*  
 >>**my book**  
 >>>***my ball***  
+-school
+  -class  
