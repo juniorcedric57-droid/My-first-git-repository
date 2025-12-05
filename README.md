@@ -11,4 +11,11 @@
 - school
   - class
     
-  we use the `<h1>` 
+  we use the `<h1>`
+  ``` cmd
+     git clone <url>
+  ```
+  ``` jzvascript
+     console.log ("hello")
+  ```
+  
